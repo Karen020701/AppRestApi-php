@@ -25,3 +25,5 @@ php -S localhost:8000
 ```
 
 Once the server is running go to: *http://localhost:8000/server.php* and you will see the message.
+
+![image](https://github.com/user-attachments/assets/e89897ba-541d-43cd-a062-632c595fdd38)
