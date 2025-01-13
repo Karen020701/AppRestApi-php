@@ -6,7 +6,7 @@ header("Content-Type: application/json");
 
 if ($_SERVER['REQUEST_METHOD'] == 'GET') {
    
-    echo json_encode(["message" => "Hola Mundo con RestApi en lenguaje php"]);
+    echo json_encode(["message" => "Hola Mundo con RestApi en lenguaje Php"]);
 } else {
     
     http_response_code(405);
